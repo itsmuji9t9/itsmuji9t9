@@ -1,5 +1,5 @@
 # 💫 About Me:
-Academic computer science projects and exploring Cloud & DevOps automation.
+Cloud Infra & DevOps Practitioner | AWS | Docker | Kubernetes | Terraform | Ansible | CI/CD | GitHub Actions | Python | C++ | BSCS student @ BZU
 
 
 ## 🌐 Socials:
